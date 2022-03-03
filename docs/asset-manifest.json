@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lunch.digital/static/css/main.115bff25.css",
+    "main.js": "/lunch.digital/static/js/main.e794a11c.js",
+    "static/js/787.50aca63d.chunk.js": "/lunch.digital/static/js/787.50aca63d.chunk.js",
+    "index.html": "/lunch.digital/index.html",
+    "main.115bff25.css.map": "/lunch.digital/static/css/main.115bff25.css.map",
+    "main.e794a11c.js.map": "/lunch.digital/static/js/main.e794a11c.js.map",
+    "787.50aca63d.chunk.js.map": "/lunch.digital/static/js/787.50aca63d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.115bff25.css",
+    "static/js/main.e794a11c.js"
+  ]
+}
