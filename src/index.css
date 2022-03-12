@@ -4,7 +4,7 @@
 
 @layer base {
   a {
-    @apply hover:border-b-[1vw];
+    @apply hover:border-b-[0.5vw];
     @apply hover:border-black;
   }
 }
