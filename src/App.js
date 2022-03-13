@@ -23,7 +23,7 @@ function App() {
         <div className="text-black bg-gray-200 w-full pb-[6vw] pt-[4vw]">
           <div className="px-[4vw] text-[7vw] leading-[9vw] md:text-[6vw] md:leading-[8vw]">
             <div className="md:grid md:grid-cols-2">
-              <div className="text-[5vw] sticky top-0 z-10 bg-gray-200 md:static">
+              <div className="text-[5vw] sticky top-0 z-10 bg-gray-200 h-[8vw]">
                 <div className="flex items-center">
                   <Lunch className="inline-block pr-[2vw] pl-1 w-[15.5vw] fill-black mt-[-0.4vw]" />
                   <span>Clients</span>
@@ -108,7 +108,7 @@ function App() {
         {/* Team */}
         <div className="text-white bg-black w-full pt-[4vw]">
           <div className="px-[4vw] text-[7vw] leading-[9vw]">
-            <div className="text-[5vw] sticky top-0 z-10 bg-black md:static">
+            <div className="text-[5vw] sticky top-0 z-10 bg-black">
               <div className="flex items-center">
                 <Lunch className="inline-block pr-[2vw] pl-1 w-[15.5vw] fill-white mt-[-0.4vw]" />
                 <span>Team</span>
